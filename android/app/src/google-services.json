@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891317041998",
+    "project_id": "libreriaxd-cb046",
+    "storage_bucket": "libreriaxd-cb046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891317041998:android:8d8194e77f1334bc84fc1f",
+        "android_client_info": {
+          "package_name": "com.example.dea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891317041998-ot5chl17r8dm5sml4tc860knl5p2v2h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_2RE2rvpGEeomPPaYIgVtqC7tjfpjzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891317041998-ot5chl17r8dm5sml4tc860knl5p2v2h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
